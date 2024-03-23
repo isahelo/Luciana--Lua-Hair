@@ -1,0 +1,412 @@
+@media (max-width: 1281px){
+.imagem__logo{
+width: 400px;
+margin-left: 30%;
+}
+.titulo{
+width: 70%;
+margin-left: 15%;
+display: flex;
+text-align: center;
+}
+}
+
+@media (max-width: 1025px) {
+.cabecalho__menu{
+display: flex;
+gap: 350px;
+}  
+.imagem__logo{
+width: 300px;
+margin-left: 30%;
+}
+.titulo{
+width: 70%;
+margin-left: 15%;
+font-size: 50px;
+display: flex;
+text-align: center;
+margin-top: 5%;
+}
+.imagem__foto{
+width: 300px;
+}
+.imagem__cabelo{
+width: 250px;
+}
+.imagem__unha{
+width: 250px;
+}
+.titulo__segundo{
+font-size: 40px;
+margin-top: 40%;
+}
+.titulo__quarto{
+font-size: 40px;
+}
+.lista__cabelo{
+font-size: 35px;
+}
+.lista__unha{
+font-size: 35px;
+}
+.meunome{
+font-size: 70px;
+}
+.rodape{
+margin-bottom: 0%;
+font-size: 40px;
+}
+.texto{
+font-size: 50px;
+margin-top: 10%;
+width: 70%;
+margin-left: 15% ;
+}
+.texto__secundario{
+font-size: 50px;
+width: 70%;
+margin-left: 15% ;
+margin-bottom: 50%;
+}
+}
+
+@media (max-width: 913px){
+.imagem__logo{
+width: 500px;
+margin-left: 20%;
+}
+.titulo{
+width: 69%;
+font-size: 90px;
+margin-top: 10%;
+margin-left: 15%;
+}
+.titulo__segundo{
+font-size: 50px;
+}
+.titulo__quarto{
+font-size: 50px;
+}
+.rodape{
+font-size: 40px;
+}
+.imagem__foto{
+width: 350px;
+margin-left: 30%;
+}
+.meunome{
+font-size: 77px;
+}
+.texto{
+font-size: 60px;
+width: 75%;
+margin-left: 12%;
+}
+.texto__secundario{
+font-size: 60px;
+width: 75%;
+margin-left: 12%;
+}
+.icone{
+width: 70px;
+}
+}
+
+@media (max-width: 820px){
+.imagem__logo{
+width: 100px;
+}
+}
+
+@media (max-width: 769px){
+.imagem__logo{
+width: 350px;
+margin-left: 30%;
+margin-top: 0%;
+}
+.titulo{
+font-size: 45px;
+margin-top: 0%;
+}
+.titulo__segundo{
+    margin-top: 40%;
+}
+.imagem__foto{
+width: 300px;
+margin-left: 30%;
+}
+.meunome{
+font-size: 65px;
+}
+.texto{
+font-size: 40px ;
+margin-top: 10%;
+}
+.texto__secundario{
+font-size: 40px;
+}
+.rodape{
+width: 80%;
+margin-left: 10%;
+}
+}
+
+@media (max-width: 541px){
+.cabecalho__menu{
+display: flex;
+gap: 150px;
+}
+.cabecalho__menu__link{
+font-size: 34px;
+}
+.imagem__logo{
+margin-left: 15%;
+width: 300px;
+}
+.titulo{
+width: 70%;
+margin-top: 5%;
+margin-left: 15%;
+font-size: 50px;
+}
+.lista{
+width: 70%;
+margin-left: 15%;
+display: flex;
+align-items: center;
+text-align: center;
+}
+.lista__cabelo{
+font-size: 30px;
+}
+.imagem__cabelo{
+width: 130px;
+}
+.lista__secundaria{
+width: 70%;
+margin-left: 15%;
+}
+.lista__unha{
+font-size: 30px;
+}
+.imagem__unha{
+width: 150px;
+}
+.rodape{
+font-size: 20px;
+}
+.imagem__foto{
+margin-left: 10%;
+width: 300px;
+}
+.meunome{
+font-size: 70px;
+}
+.texto{
+width: 60%;
+margin-left: 20%;
+font-size: 40px;
+}
+.texto__secundario{
+width: 60%;
+margin-left: 20%;
+font-size: 40px;
+margin-top: 4%;
+}
+.icone{
+width: 50px;
+}
+}
+
+@media (max-width: 431px){
+.titulo{
+font-size: 45px;
+width: 90%;
+margin-left: 5%;
+}
+.meunome{
+font-size: 60px;
+margin-top: 6%;
+}
+.texto{
+font-size: 40px;
+width: 70%;
+margin-left: 11%;
+}
+.titulo__segundo{
+font-size: 40px;
+margin-top: 65%;
+}
+.titulo__quarto{
+font-size: 40px;
+}
+
+.texto__secundario{
+font-size: 40px;
+width: 70%;
+margin-left: 11%;
+}
+.rodape{
+font-size: 30px;
+}
+}
+
+@media (max-width: 415px){
+.imagem__logo{
+width: 300px;
+margin-left: 10%;
+}
+.titulo{
+font-size: 40px;
+}
+.titulo__segundo{
+font-size: 35px;
+margin-top: 65%;
+}
+.titulo__quarto{
+font-size: 35px;
+}
+.rodape{
+width: 90%;
+font-size: 30px;
+margin-left: 5%;
+}
+.imagem__foto{
+margin-left: 15%;
+width: 250px;
+}
+.meunome{
+width: 90%;
+font-size: 65px;
+margin-top: 15%;
+}
+.texto{
+width: 70%;
+margin-left: 10%;
+}
+.texto__secundario{
+width: 70%;
+margin-left: 10%;
+}
+}
+
+@media (max-width: 391px){
+.cabecalho__menu{
+display: flex;
+gap: 110px;
+}
+.imagem__logo{
+    width: 350px;
+}
+.titulo{
+width: 90%;
+margin-left: 5%;
+}
+.menu__lateral .icone{
+width: 55px
+}
+.meunome{
+font-size: 65px;
+width: 100%;
+}
+}
+
+@media (max-width: 376px){
+.imagem__logo{
+width: 300px;
+}
+.titulo{
+font-size: 45px;
+}
+.meunome{
+font-size: 60px;
+width: 80%;
+margin-top: auto;
+margin-left: 4%;
+}
+.texto{
+font-size: 30px;
+}
+.texto__secundario{
+font-size: 30px;
+}
+.rodape{
+font-size: 24px;
+}
+}
+
+@media (max-width: 361px){
+.titulo{
+font-size: 44px;
+}
+.meunome{
+font-size: 60px;
+width: 90%;
+margin-left: 2%;
+}
+.texto{
+font-size: 30px;
+}
+.texto__secundario{
+font-size: 30px;
+}
+}
+
+@media (max-width: 281px){
+.cabecalho__menu{
+display: flex;
+gap: 85px;
+}
+.cabecalho__menu__link{
+font-size: 24px;
+}
+.imagem__logo{
+margin-left: 5%;
+}
+.titulo{
+font-size: 39px;
+}
+.titulo__segundo{
+font-size: 30px;
+}
+.titulo__quarto{
+font-size: 30px;
+}
+.lista__cabelo{
+font-size: 25px;
+}
+.lista__unha{
+font-size: 25px;
+}
+.imagem__cabelo{
+width: 100px;
+}
+.imagem__unha{
+width: 100px;
+}
+.imagem__foto{
+width: 200px;
+}
+.meunome{
+font-size: 40px;
+}
+.texto{
+font-size: 25px;
+width: 70%;
+margin-left: 10%;
+}
+.texto__secundario{
+font-size: 25px;
+width: 70%;
+margin-left: 10%;
+}
+.menu__lateral .icone{
+width: 40px;
+margin-left: 50%;
+}
+.rodape{
+font-size: 20px;
+width: 90%;       
+ }
+  }
